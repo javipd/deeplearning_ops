@@ -1,0 +1,1 @@
+Following the AI Summer's book *Deep Learning in Production*
