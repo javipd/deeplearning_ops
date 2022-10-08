@@ -1,0 +1,1 @@
+Utility functions that are used in more than one place. Everything that does not belong to in the pre-described categories.

@@ -1,0 +1,1 @@
+Here goes everything than can be configurable and can be changed in the future (training hyperparameters, folder paths, metrics...)
